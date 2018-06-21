@@ -7,6 +7,8 @@ categories: cruise update
 
 A new article has been published in IEEE Technology and Society Magazine
 
+{::options parse_block_html="true" /}
+<div style="padding: 15px; margin-top: 10px; margin-bottom: 10px; border: 2px solid black;">
 [Algorithmic Governance in Smart Cities: The Conundrum and the Potential of Pervasive Computing Solutions](https://github.com/cruiseresearchgroup/Algorithmic-Governance-in-Smart-Cities)
 
 Authors: Franco Zambonelli, Flora Salim, Seng W. Loke, Wolfgang De Meuter, and Salil Kanhere
@@ -15,7 +17,10 @@ Link: [https://ieeexplore.ieee.org/document/8371566/](https://ieeexplore.ieee.or
 
 Paper: [PDF File](https://github.com/cruiseresearchgroup/Algorithmic-Governance-in-Smart-Cities/blob/master/paper/zambonelli2018algorithmic.pdf)
 
+**Abstract**
+
 Pervasive and mobile computing technologies can make our everyday living environments and our cities "smart", i.e., capable of reaching awareness of physical and social processes and of dynamically affecting them in a purposeful way [1]. This is already happening, e.g., in the form of digital traffic signs that suggest in real-time the best traffic directions or the availability of parking spots, and also in the form of location-based social networks that inform us about noteworthy events. Soon we expect that the pervasive diffusion of sensing, actuation, and computing will allow our urban environment to fully self-regulate in autonomy most of its processes, and to guide and support our everyday activities.
+</div>
 
 {% comment %}
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
