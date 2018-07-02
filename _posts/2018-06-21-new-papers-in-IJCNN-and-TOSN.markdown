@@ -16,13 +16,13 @@ Congratulations to the following two of our PhD students for their recent top qu
 ### International Joint Conference on Neural Networks (IJCNN)
 ------------------------------
 
-**Evolutionary Multi-objective Ensemble Learning for Multivariate Electricity Consumption Prediction**
+[**Evolutionary Multi-objective Ensemble Learning for Multivariate Electricity Consumption Prediction**](https://github.com/cruiseresearchgroup/Evolutionary-Multi-objective-Ensemble-Learning-for-Multivariate-Electricity-Consumption-Prediction)
 
 Authors: Hui Song, A. K. Qin and Flora D. Salim
 
 Link: TBD
 
-Paper: TBD
+Paper: [PDF File](https://github.com/cruiseresearchgroup/Evolutionary-Multi-objective-Ensemble-Learning-for-Multivariate-Electricity-Consumption-Prediction/blob/master/paper/song2018evolutionary.pdf)
 
 **Abstract**
 
