@@ -30,3 +30,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 source "https://rubygems.org"
 gem "github-pages", 179, group: :jekyll_plugins
+
+gem "nokogiri", ">= 1.11.4"
+
+gem "addressable", ">= 2.8.0"
